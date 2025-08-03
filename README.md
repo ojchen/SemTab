@@ -27,4 +27,4 @@ python3 reject-option-classification-german-credit.py
 ## 📝 License
 
 Copyright © 2025 [Livi Chen](https://github.com/ojchen).<br />
-This project is [MIT](https://github.com/RN0311/Multiobjective-Optimization-For-Debiasing-Credit-System/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/ojchen/SemTab/tree/main?tab=MIT-1-ov-file) licensed.
