@@ -16,13 +16,6 @@ Feature Generation on Tabular Data&#34;
 pip install -r requirements.txt
 ```
 
-## Usage of the best multi objective optimizer
-
-```sh
-python3 reject-option-classification-german-credit.py
-```
-
-
 
 ## 📝 License
 
